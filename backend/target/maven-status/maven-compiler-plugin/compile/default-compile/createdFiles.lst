@@ -1,0 +1,5 @@
+com\educert\util\HashUtil.class
+com\educert\model\Certificate.class
+com\educert\repository\CertificateRepository.class
+com\educert\EduCertApplication.class
+com\educert\service\HederaService.class
